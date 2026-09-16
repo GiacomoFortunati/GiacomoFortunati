@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/HackerOne-Hunter-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bugcrowd-Researcher-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intigriti-Researcher-990000?style=for-the-badge&logo=intigriti&logoColor=white"/>
+<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
 
 </div>
 
