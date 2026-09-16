@@ -29,12 +29,12 @@
 
 <br/>
 
-```text
-C            ████████████████░░░░  80%
-Python       ████████████░░░░░░░░  60%
-JavaScript   ████████░░░░░░░░░░░░  40%
-Assembly     ████████░░░░░░░░░░░░  40%
-Java         ████░░░░░░░░░░░░░░░░  20%
+```ansi
+[38;5;141mC           [0m [38;5;141m████████████████░░░░[0m 80%
+[38;5;141mPython      [0m [38;5;141m████████████░░░░░░░░[0m 60%
+[38;5;141mJavaScript  [0m [38;5;141m████████░░░░░░░░░░░░[0m 40%
+[38;5;141mAssembly    [0m [38;5;141m████████░░░░░░░░░░░░[0m 40%
+[38;5;141mJava        [0m [38;5;141m████░░░░░░░░░░░░░░░░[0m 20%
 ```
 
 <br/>
@@ -52,12 +52,12 @@ Java         ████░░░░░░░░░░░░░░░░  20%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FortuJack09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=8a63f2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuJack09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GiacomoFortunati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=8a63f2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoFortunati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati1&theme=tokyonight&hide_border=true&background=0d1117&ring=8a63f2&fire=a29bfe&currStreakLabel=a29bfe" />
+<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati&theme=tokyonight&hide_border=true&background=0d1117&ring=8a63f2&fire=a29bfe&currStreakLabel=a29bfe" />
 
 </div>
 
