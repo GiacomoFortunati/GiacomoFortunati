@@ -27,76 +27,51 @@
 
 <br/><br/>
 
-<table width="650px" style="border-collapse: collapse; border: none;">
+<table width="650px">
   <tr>
-    <td width="28%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" height="16" style="vertical-align: middle;"/>
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">C</code>
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18" height="18" align="center"/>&nbsp;<b>C</b>
     </td>
-    <td width="57%" align="center">
-      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
-        <rect width="80%" height="100%" rx="4" fill="#e63946"/>
-      </svg>
+    <td width="55%" align="center">
+      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="80%" height="12"/>
     </td>
-    <td width="15%" align="right">
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">80%</code>
-    </td>
+    <td width="15%" align="right"><b style="color: #ff4d4d;">80%</b></td>
   </tr>
   <tr>
-    <td width="28%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" style="vertical-align: middle;"/>
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Python</code>
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Python</b>
     </td>
-    <td width="57%" align="center">
-      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
-        <rect width="60%" height="100%" rx="4" fill="#e63946"/>
-      </svg>
+    <td width="55%" align="center">
+      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="60%" height="12"/>
     </td>
-    <td width="15%" align="right">
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">60%</code>
-    </td>
+    <td width="15%" align="right"><b style="color: #ff4d4d;">60%</b></td>
   </tr>
   <tr>
-    <td width="28%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" height="16" style="vertical-align: middle;"/>
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">JavaScript</code>
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" align="center"/>&nbsp;<b>JavaScript</b>
     </td>
-    <td width="57%" align="center">
-      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
-        <rect width="40%" height="100%" rx="4" fill="#e63946"/>
-      </svg>
+    <td width="55%" align="center">
+      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="40%" height="12"/>
     </td>
-    <td width="15%" align="right">
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">40%</code>
-    </td>
+    <td width="15%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
   <tr>
-    <td width="28%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="16" height="16" style="vertical-align: middle;"/>
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Assembly</code>
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Assembly</b>
     </td>
-    <td width="57%" align="center">
-      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
-        <rect width="40%" height="100%" rx="4" fill="#e63946"/>
-      </svg>
+    <td width="55%" align="center">
+      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="40%" height="12"/>
     </td>
-    <td width="15%" align="right">
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">40%</code>
-    </td>
+    <td width="15%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
   <tr>
-    <td width="28%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="16" height="16" style="vertical-align: middle;"/>
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Java</code>
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Java</b>
     </td>
-    <td width="57%" align="center">
-      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
-        <rect width="20%" height="100%" rx="4" fill="#e63946"/>
-      </svg>
+    <td width="55%" align="center">
+      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="20%" height="12"/>
     </td>
-    <td width="15%" align="right">
-      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">20%</code>
-    </td>
+    <td width="15%" align="right"><b style="color: #ff4d4d;">20%</b></td>
   </tr>
 </table>
 
