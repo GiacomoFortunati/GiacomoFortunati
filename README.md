@@ -29,9 +29,9 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 |:--|:--|
 | C | ⭐⭐⭐⭐☆ |
 | Python | ⭐⭐⭐☆☆ |
-| Java | ⭐☆☆☆☆ |
-| JavaScript | ⭐⭐☆☆☆ |
 | Assembly | ⭐⭐☆☆☆ |
+| JavaScript | ⭐⭐☆☆☆ |
+| Java | ⭐☆☆☆☆ |
 
 </div>
 
