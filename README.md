@@ -23,59 +23,41 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
 
-<br/><br/>
+<br/>
+<br/>
 
-<table width="650px">
+<table width="100%">
   <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18" height="18" align="center"/>&nbsp;<b>C</b>
-    </td>
-    <td width="55%" align="center">
-      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="80%" height="12"/>
-    </td>
-    <td width="15%" align="right"><b style="color: #ff4d4d;">80%</b></td>
+    <td width="25%"><b>C</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/80?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">80%</b></td>
   </tr>
   <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Python</b>
-    </td>
-    <td width="55%" align="center">
-      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="60%" height="12"/>
-    </td>
-    <td width="15%" align="right"><b style="color: #ff4d4d;">60%</b></td>
+    <td width="25%"><b>Python</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
   </tr>
   <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" align="center"/>&nbsp;<b>JavaScript</b>
-    </td>
-    <td width="55%" align="center">
-      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="40%" height="12"/>
-    </td>
-    <td width="15%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+    <td width="25%"><b>JavaScript</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
   <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Assembly</b>
-    </td>
-    <td width="55%" align="center">
-      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="40%" height="12"/>
-    </td>
-    <td width="15%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+    <td width="25%"><b>Assembly</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
   <tr>
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" align="center"/>&nbsp;<b>Java</b>
-    </td>
-    <td width="55%" align="center">
-      <img src="https://img.shields.io/badge/-%23e63946?style=flat&color=e63946&labelColor=21262d&label=%20&width=200" width="20%" height="12"/>
-    </td>
-    <td width="15%" align="right"><b style="color: #ff4d4d;">20%</b></td>
+    <td width="25%"><b style="color: #ff4d4d;">Java</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=E53E3E" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
   </tr>
 </table>
 
 </div>
+
 ## 🎯 Focus attuale
 
 - 🔎 &nbsp; **Web Application Security**
