@@ -29,8 +29,8 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 |:--|:--|
 | C | ⭐⭐⭐⭐☆ |
 | Python | ⭐⭐⭐☆☆ |
-| Assembly | ⭐⭐☆☆☆ |
 | JavaScript | ⭐⭐☆☆☆ |
+| Assembly | ⭐⭐☆☆☆ |
 | Java | ⭐☆☆☆☆ |
 
 </div>
@@ -43,17 +43,6 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 - 🧩 Reverse Engineering di base
 - 🔌 Elettronica embedded con Arduino Uno
 - 📝 Scrittura di report e PoC per il bug bounty
-
-<br/>
-
-## 📊 Statistiche GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FortuJack09&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuJack09&layout=compact&theme=default&hide_border=true" height="160"/>
-
-</div>
 
 <br/>
 
