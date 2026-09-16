@@ -7,8 +7,8 @@
 <br/>
 
 <a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-<a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
 
 </div>
 
@@ -84,10 +84,10 @@
 
 <div align="center">
 
-<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-<a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+<a href="mailto:fortunatigiacomo14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
