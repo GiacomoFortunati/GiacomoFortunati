@@ -17,11 +17,7 @@
 
 ## 🕵️ Chi sono
 
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/security/security-original.svg" width="120"/>
-
 Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne** e **Bugcrowd**, studio linguaggi di programmazione e mi diverto a smanettare con l'elettronica.
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=1000" width="100%"/>
 
@@ -35,11 +31,11 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 
 <table>
 <tr><th align="left">Linguaggio</th><th align="left">Livello</th></tr>
-<tr><td>C</td><td><img src="https://progress-bar.xyz/80/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
-<tr><td>Python</td><td><img src="https://progress-bar.xyz/60/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
-<tr><td>JavaScript</td><td><img src="https://progress-bar.xyz/40/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
-<tr><td>Assembly</td><td><img src="https://progress-bar.xyz/40/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
-<tr><td>Java</td><td><img src="https://progress-bar.xyz/20/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
+<tr><td>C</td><td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjIiPgo8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzFlMWIyZSIvPgo8cmVjdCB3aWR0aD0iMTYwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzhhNjNmMiIvPgo8dGV4dCB4PSIxMDAuMCIgeT0iMTUuMCIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+ODAlPC90ZXh0Pgo8L3N2Zz4="/></td></tr>
+<tr><td>Python</td><td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjIiPgo8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzFlMWIyZSIvPgo8cmVjdCB3aWR0aD0iMTIwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzhhNjNmMiIvPgo8dGV4dCB4PSIxMDAuMCIgeT0iMTUuMCIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+NjAlPC90ZXh0Pgo8L3N2Zz4="/></td></tr>
+<tr><td>JavaScript</td><td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjIiPgo8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzFlMWIyZSIvPgo8cmVjdCB3aWR0aD0iODAiIGhlaWdodD0iMjIiIHJ4PSI2IiBmaWxsPSIjOGE2M2YyIi8+Cjx0ZXh0IHg9IjEwMC4wIiB5PSIxNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj40MCU8L3RleHQ+Cjwvc3ZnPg=="/></td></tr>
+<tr><td>Assembly</td><td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjIiPgo8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzFlMWIyZSIvPgo8cmVjdCB3aWR0aD0iODAiIGhlaWdodD0iMjIiIHJ4PSI2IiBmaWxsPSIjOGE2M2YyIi8+Cjx0ZXh0IHg9IjEwMC4wIiB5PSIxNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj40MCU8L3RleHQ+Cjwvc3ZnPg=="/></td></tr>
+<tr><td>Java</td><td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjIiPgo8cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIyIiByeD0iNiIgZmlsbD0iIzFlMWIyZSIvPgo8cmVjdCB3aWR0aD0iNDAiIGhlaWdodD0iMjIiIHJ4PSI2IiBmaWxsPSIjOGE2M2YyIi8+Cjx0ZXh0IHg9IjEwMC4wIiB5PSIxNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4yMCU8L3RleHQ+Cjwvc3ZnPg=="/></td></tr>
 </table>
 
 </div>
