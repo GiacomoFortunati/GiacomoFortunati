@@ -71,11 +71,6 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiacomoFortunati&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiacomoFortunati&theme=tokyonight" width="49%" />
-</p>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=GiacomoFortunati&theme=tokyonight&hide_border=true&background=0d1117&ring=8a63f2&fire=a29bfe&currStreakLabel=a29bfe" />
