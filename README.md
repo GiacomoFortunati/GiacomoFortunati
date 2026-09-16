@@ -50,9 +50,9 @@
     <td width="10%" align="right"><b>40%</b></td>
   </tr>
   <tr>
-    <td width="25%"><b>Java</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
-    <td width="10%" align="right"><b>20%</b></td>
+    <td width="25%"><b style="color: #ff4d4d;">Java</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=E53E3E&color=E53E3E" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
   </tr>
 </table>
 
