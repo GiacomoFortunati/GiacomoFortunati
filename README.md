@@ -6,13 +6,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/HackerOne-Hunter-0A0A0A?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Bugcrowd-Researcher-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Status-Active-8A63F2?style=for-the-badge&labelColor=0A0A0A"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a63f2,100:24243e&height=3&width=1000" width="100%"/>
+<img src="https://img.shields.io/badge/HackerOne-Hunter-0A0A0A?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bugcrowd-Researcher-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
 
 </div>
 
@@ -20,25 +15,7 @@
 
 ## 🕵️ Chi sono
 
-<table width="100%">
-<tr>
-<td width="70%" valign="middle">
-
-Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne** e **Bugcrowd**, studio linguaggi di programmazione e mi diverto a smanettare con l'elettronica.
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/🔐-Security-8a63f2?style=for-the-badge&labelColor=1e1b2e"/><br/><br/>
-<img src="https://img.shields.io/badge/🐛-Bug_Bounty-8a63f2?style=for-the-badge&labelColor=1e1b2e"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:8a63f2,100:302b63&height=3&width=1000" width="100%"/>
-</div>
+> Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne** e **Bugcrowd**, studio linguaggi di programmazione e mi diverto a smanettare con l'elettronica.
 
 <br/>
 
@@ -46,74 +23,42 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="65"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<th align="left">💻 Linguaggio</th>
-<th align="left">📊 Livello</th>
-</tr>
-<tr>
-<td><b>C</b></td>
-<td><img src="https://progress-bar.xyz/80/?width=200&style=for-the-badge&color=8a63f2&progress_color=8a63f2&progress_background=1e1b2e&progress_number_color=ffffff"/></td>
-</tr>
-<tr>
-<td><b>Python</b></td>
-<td><img src="https://progress-bar.xyz/60/?width=200&style=for-the-badge&color=8a63f2&progress_color=8a63f2&progress_background=1e1b2e&progress_number_color=ffffff"/></td>
-</tr>
-<tr>
-<td><b>JavaScript</b></td>
-<td><img src="https://progress-bar.xyz/40/?width=200&style=for-the-badge&color=8a63f2&progress_color=8a63f2&progress_background=1e1b2e&progress_number_color=ffffff"/></td>
-</tr>
-<tr>
-<td><b>Assembly</b></td>
-<td><img src="https://progress-bar.xyz/40/?width=200&style=for-the-badge&color=8a63f2&progress_color=8a63f2&progress_background=1e1b2e&progress_number_color=ffffff"/></td>
-</tr>
-<tr>
-<td><b>Java</b></td>
-<td><img src="https://progress-bar.xyz/20/?width=200&style=for-the-badge&color=8a63f2&progress_color=8a63f2&progress_background=1e1b2e&progress_number_color=ffffff"/></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:8a63f2,100:302b63&height=3&width=1000" width="100%"/>
-</div>
+<br/>
+
+```text
+C            ████████████████░░░░  80%
+Python       ████████████░░░░░░░░  60%
+JavaScript   ████████░░░░░░░░░░░░  40%
+Assembly     ████████░░░░░░░░░░░░  40%
+Java         ████░░░░░░░░░░░░░░░░  20%
+```
 
 <br/>
 
 ## 🎯 Focus attuale
 
-<div align="center">
+- 🔎 &nbsp; **Web Application Security**
+- 🧩 &nbsp; **Reverse Engineering di base**
+- 🔌 &nbsp; **Elettronica embedded con Arduino Uno**
+- 📝 &nbsp; **Scrittura di report e PoC per il bug bounty**
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔎-808080?style=for-the-badge&labelColor=1e1b2e"/><br/>
-<b>Web Application Security</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧩-808080?style=for-the-badge&labelColor=1e1b2e"/><br/>
-<b>Reverse Engineering di base</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔌-808080?style=for-the-badge&labelColor=1e1b2e"/><br/>
-<b>Elettronica embedded con Arduino Uno</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📝-808080?style=for-the-badge&labelColor=1e1b2e"/><br/>
-<b>Scrittura di report e PoC per il bug bounty</b>
-</td>
-</tr>
-</table>
+<br/>
 
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:8a63f2,100:302b63&height=3&width=1000" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GiacomoFortunati1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=8a63f2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoFortunati1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati1&theme=tokyonight&hide_border=true&background=0d1117&ring=8a63f2&fire=a29bfe&currStreakLabel=a29bfe" />
+
 </div>
 
 <br/>
@@ -127,10 +72,6 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contattami-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a63f2,100:24243e&height=2&width=600" width="60%"/>
-
-<br/>
 
 <i>"Ogni bug è solo una feature che nessuno ha ancora capito."</i>
 
