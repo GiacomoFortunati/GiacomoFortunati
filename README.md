@@ -35,11 +35,11 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 
 <table>
 <tr><th align="left">Linguaggio</th><th align="left">Livello</th></tr>
-<tr><td>C</td><td><img src="https://progress-bar.xyz/80/?width=180&color=a29bfe&suffix=%25"/></td></tr>
-<tr><td>Python</td><td><img src="https://progress-bar.xyz/60/?width=180&color=6c5ce7&suffix=%25"/></td></tr>
-<tr><td>JavaScript</td><td><img src="https://progress-bar.xyz/40/?width=180&color=5f4bb6&suffix=%25"/></td></tr>
-<tr><td>Assembly</td><td><img src="https://progress-bar.xyz/40/?width=180&color=574b90&suffix=%25"/></td></tr>
-<tr><td>Java</td><td><img src="https://progress-bar.xyz/20/?width=180&color=4b3f72&suffix=%25"/></td></tr>
+<tr><td>C</td><td><img src="https://progress-bar.xyz/80/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
+<tr><td>Python</td><td><img src="https://progress-bar.xyz/60/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
+<tr><td>JavaScript</td><td><img src="https://progress-bar.xyz/40/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
+<tr><td>Assembly</td><td><img src="https://progress-bar.xyz/40/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
+<tr><td>Java</td><td><img src="https://progress-bar.xyz/20/?width=180&color=8a63f2&title=&progress_color=8a63f2&bar_color=1e1b2e"/></td></tr>
 </table>
 
 </div>
@@ -52,12 +52,12 @@ Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne
 
 <div align="center">
 
-| | |
-|:--|:--|
-| 🔎 | **Web Application Security** |
-| 🧩 | **Reverse Engineering di base** |
-| 🔌 | **Elettronica embedded con Arduino Uno** |
-| 📝 | **Scrittura di report e PoC per il bug bounty** |
+<table>
+<tr><td>🔎</td><td align="left"><b>Web Application Security</b></td></tr>
+<tr><td>🧩</td><td align="left"><b>Reverse Engineering di base</b></td></tr>
+<tr><td>🔌</td><td align="left"><b>Elettronica embedded con Arduino Uno</b></td></tr>
+<tr><td>📝</td><td align="left"><b>Scrittura di report e PoC per il bug bounty</b></td></tr>
+</table>
 
 </div>
 
