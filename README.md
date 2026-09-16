@@ -89,7 +89,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=560&lines=Ogni+bug+è+solo+una+feature+che+nessuno+ha+ancora+capito" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=560&lines=Ogni+bug+è+solo+una+feature+che+nessuno+ha+ancora+capito;" alt="Typing SVG"/>
 
 </div>
 
