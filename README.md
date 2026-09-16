@@ -29,15 +29,35 @@
 
 <br/>
 
-```ansi
-[38;5;141mC           [0m [38;5;141m████████████████░░░░[0m 80%
-[38;5;141mPython      [0m [38;5;141m████████████░░░░░░░░[0m 60%
-[38;5;141mJavaScript  [0m [38;5;141m████████░░░░░░░░░░░░[0m 40%
-[38;5;141mAssembly    [0m [38;5;141m████████░░░░░░░░░░░░[0m 40%
-[38;5;141mJava        [0m [38;5;141m████░░░░░░░░░░░░░░░░[0m 20%
-```
+<table width="100%">
+  <tr>
+    <td width="25%"><b>C</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/80?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
+    <td width="10%" align="right"><b>80%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Python</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
+    <td width="10%" align="right"><b>60%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>JavaScript</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
+    <td width="10%" align="right"><b>40%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Assembly</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
+    <td width="10%" align="right"><b>40%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Java</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8A2BE2&color=A020F0" width="100%" /></td>
+    <td width="10%" align="right"><b>20%</b></td>
+  </tr>
+</table>
 
-<br/>
+</div>
 
 ## 🎯 Focus attuale
 
