@@ -23,55 +23,84 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="48"/>
 
 <br/><br/>
 
-<table width="90%">
-  <tr height="40px">
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
-      <b>C</b>
+<table width="650px" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="28%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" height="16" style="vertical-align: middle;"/>
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">C</code>
     </td>
-    <td width="60%"><img src="https://geps.dev/progress/80?dangerColor=8B0000&color=FF3333" width="100%"/></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">80%</b></td>
+    <td width="57%" align="center">
+      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
+        <rect width="80%" height="100%" rx="4" fill="#e63946"/>
+      </svg>
+    </td>
+    <td width="15%" align="right">
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">80%</code>
+    </td>
   </tr>
-  <tr height="40px">
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
-      <b>Python</b>
+  <tr>
+    <td width="28%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" style="vertical-align: middle;"/>
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Python</code>
     </td>
-    <td width="60%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%"/></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
+    <td width="57%" align="center">
+      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
+        <rect width="60%" height="100%" rx="4" fill="#e63946"/>
+      </svg>
+    </td>
+    <td width="15%" align="right">
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">60%</code>
+    </td>
   </tr>
-  <tr height="40px">
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
-      <b>JavaScript</b>
+  <tr>
+    <td width="28%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" height="16" style="vertical-align: middle;"/>
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">JavaScript</code>
     </td>
-    <td width="60%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%"/></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+    <td width="57%" align="center">
+      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
+        <rect width="40%" height="100%" rx="4" fill="#e63946"/>
+      </svg>
+    </td>
+    <td width="15%" align="right">
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">40%</code>
+    </td>
   </tr>
-  <tr height="40px">
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
-      <b>Assembly / ASM</b>
+  <tr>
+    <td width="28%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="16" height="16" style="vertical-align: middle;"/>
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Assembly</code>
     </td>
-    <td width="60%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%"/></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+    <td width="57%" align="center">
+      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
+        <rect width="40%" height="100%" rx="4" fill="#e63946"/>
+      </svg>
+    </td>
+    <td width="15%" align="right">
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">40%</code>
+    </td>
   </tr>
-  <tr height="40px">
-    <td width="30%" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
-      <b>Java</b>
+  <tr>
+    <td width="28%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="16" height="16" style="vertical-align: middle;"/>
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #f0f6fc; margin-left: 6px;">Java</code>
     </td>
-    <td width="60%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=FF3333" width="100%"/></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
+    <td width="57%" align="center">
+      <svg width="100%" height="8" style="background: #21262d; border-radius: 4px; overflow: hidden; display: block;">
+        <rect width="20%" height="100%" rx="4" fill="#e63946"/>
+      </svg>
+    </td>
+    <td width="15%" align="right">
+      <code style="font-family: 'Fira Code', monospace; font-weight: 600; color: #ff6b6b;">20%</code>
+    </td>
   </tr>
 </table>
 
 </div>
-
 ## 🎯 Focus attuale
 
 - 🔎 &nbsp; **Web Application Security**
