@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=FortuJack09&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Student%20by%20day%20%7C%7C%20Bug%20Hunter%20by%20night&descAlignY=52&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=560&lines=Giacomo+Fortunati;Web+Application+Security;Bug+Bounty+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=560&lines=Giacomo+Fortunati;Web+Application+Security;Bug+Bounty+Hunter" alt="Typing SVG"/>
 
 <br/>
 
@@ -89,7 +89,7 @@
 
 <br/><br/>
 
-<i>"Ogni bug è solo una feature che nessuno ha ancora capito."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A29BFE&center=true&vCenter=true&width=560&lines=Ogni+bug+è+solo+una+feature+che+nessuno+ha+ancora+capito" alt="Typing SVG"/>
 
 </div>
 
