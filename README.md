@@ -8,6 +8,7 @@
 
 <img src="https://img.shields.io/badge/HackerOne-Hunter-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bugcrowd-Researcher-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intigriti-Researcher-990000?style=for-the-badge&logo=intigriti&logoColor=white"/>
 
 </div>
 
@@ -15,7 +16,7 @@
 
 ## 🕵️ About Me
 
-> Student passionate about cybersecurity. I hunt bugs on **HackerOne** and **Bugcrowd**, study programming languages, and tinker with hardware and electronics.
+> Student passionate about cybersecurity. I hunt bugs on **HackerOne**, **Bugcrowd**, and **Intigriti**, study programming languages, and tinker with hardware and electronics.
 
 <br/>
 
@@ -85,6 +86,7 @@
 
 <a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
 <a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
 <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
