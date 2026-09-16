@@ -25,8 +25,6 @@
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
 
-</div>
-
 <br/>
 
 <table width="100%">
