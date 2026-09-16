@@ -91,7 +91,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=760&lines=Every+bug+is+just+a+feature+nobody+understood+yet%3B" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=760&lines=Every+Bug+Is+Just+A+Feature+Nobody+Understood+Yet%3B" alt="Typing SVG"/>
 
 </div>
 
