@@ -52,8 +52,8 @@ Java         ████░░░░░░░░░░░░░░░░  20%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiacomoFortunati1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=8a63f2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoFortunati1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GiacomoFortunati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=8a63f2&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoFortunati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" height="165"/>
 
 <br/>
 
