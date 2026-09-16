@@ -23,35 +23,49 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="50"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-<table width="100%">
-  <tr>
-    <td width="25%"><b>C</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/80?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+<table width="90%">
+  <tr height="40px">
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
+      <b>C</b>
+    </td>
+    <td width="60%"><img src="https://geps.dev/progress/80?dangerColor=8B0000&color=FF3333" width="100%"/></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">80%</b></td>
   </tr>
-  <tr>
-    <td width="25%"><b>Python</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+  <tr height="40px">
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
+      <b>Python</b>
+    </td>
+    <td width="60%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%"/></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
   </tr>
-  <tr>
-    <td width="25%"><b>JavaScript</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+  <tr height="40px">
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
+      <b>JavaScript</b>
+    </td>
+    <td width="60%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%"/></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
-  <tr>
-    <td width="25%"><b>Assembly</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+  <tr height="40px">
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
+      <b>Assembly / ASM</b>
+    </td>
+    <td width="60%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%"/></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
   </tr>
-  <tr>
-    <td width="25%"><b>Java</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=E53E3E" width="100%" /></td>
+  <tr height="40px">
+    <td width="30%" align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" style="vertical-align: middle;"/>&nbsp;
+      <b>Java</b>
+    </td>
+    <td width="60%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=FF3333" width="100%"/></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
   </tr>
 </table>
