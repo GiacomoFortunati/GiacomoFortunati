@@ -13,13 +13,13 @@
 
 <br/>
 
-## 🕵️ Chi sono
+## 🕵️ About Me
 
-> Studente appassionato di sicurezza informatica. Faccio bug bounty su **HackerOne** e **Bugcrowd**, studio linguaggi di programmazione e mi diverto a smanettare con l'elettronica.
+> Student passionate about cybersecurity. I hunt bugs on **HackerOne** and **Bugcrowd**, study programming languages, and tinker with hardware and electronics.
 
 <br/>
 
-## 🛠️ Linguaggi & Tecnologie
+## 🛠️ Languages & Technologies
 
 <div align="center">
 
@@ -58,12 +58,12 @@
 
 </div>
 
-## 🎯 Focus attuale
+## 🎯 Current Focus
 
 - 🔎 &nbsp; **Web Application Security**
-- 🧩 &nbsp; **Reverse Engineering di base**
-- 🔌 &nbsp; **Elettronica embedded con Arduino Uno**
-- 📝 &nbsp; **Scrittura di report e PoC per il bug bounty**
+- 🧩 &nbsp; **Basic Reverse Engineering**
+- 🔌 &nbsp; **Embedded Electronics with Arduino Uno**
+- 📝 &nbsp; **Writing Bug Bounty Reports & PoCs**
 
 <br/>
 
@@ -79,17 +79,17 @@
 
 <br/>
 
-## 📫 Contatti
+## 📫 Get in Touch
 
 <div align="center">
 
-<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-Profilo-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profilo-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-Contattami-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=800&lines=Ogni+bug+%C3%A8+solo+una+feature+che+nessuno+ha+ancora+capito%3B" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=760&lines=Every+bug+is+just+a+feature+nobody+understood+yet%3B" alt="Typing SVG"/>
 
 </div>
 
