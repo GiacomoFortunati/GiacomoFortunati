@@ -5,25 +5,28 @@ Typing SVG
 </div> <br/>
 🕵️ Chi sono
 c
+/* whoami.c — Giacomo "FortuJack09" Fortunati */
+
 #include <stdio.h>
 
 typedef struct {
-    char  status[16];
-    char  focus[64];
-    char  weapons[5][16];
-    int   coffee_level;
+    const char *status;
+    const char *role;
+    const char *weapons[5];
+    int         coffee_level;
 } Hacker;
 
-int main() {
+int main(void) {
     Hacker me = {
-        .status = "In allenamento",
-        .focus  = "Bug Bounty & Sicurezza Offensiva",
-        .weapons = {"C", "Java", "Python", "JavaScript", "Assembly"},
+        .status       = "in allenamento",
+        .role         = "bug bounty hunter & studente",
+        .weapons      = {"C", "Java", "Python", "JavaScript", "Assembly"},
         .coffee_level = 100
     };
 
-    printf("Sto cacciando vulnerabilità su HackerOne e Bugcrowd.\n");
-    printf("Nel tempo libero programmo Arduino Uno e imparo a rompere le cose (in modo etico).\n");
+    printf("[+] Target acquisiti : HackerOne, Bugcrowd\n");
+    printf("[+] Playground hw    : Arduino Uno\n");
+    printf("[+] Missione         : trovare i bug prima che lo faccia qualcun altro.\n");
 
     return 0;
 }
@@ -42,22 +45,23 @@ Elettronica & embedded con Arduino
 Scrittura di exploit e PoC puliti
 </td> </tr> </table> <br/>
 🛠️ Linguaggi & Strumenti
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="60"/>
-
-<br/><br/>
-
-Mostra immagine Mostra immagine Mostra immagine Mostra immagine Mostra immagine Mostra immagine
-
-</div> <br/>
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="65"/> </div> <br/>
 📊 Le mie statistiche
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FortuJack09&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FortuJack09&theme=radical&hide_border=true" height="165"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuJack09&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/> </div> <br/>
-🚀 In crescita
-[■■■■■■■■□□] C            80%
-[■■■■■■□□□□] Java         60%
-[■■■■■■■□□□] Python       70%
-[■■■■■□□□□□] JavaScript   50%
-[■■■□□□□□□□] Assembly     30%
-<br/>
+🚀 Livello attuale nei linguaggi
+<div align="center">
+
+C Mostra immagine
+
+Java Mostra immagine
+
+Python Mostra immagine
+
+JavaScript Mostra immagine
+
+Assembly Mostra immagine
+
+</div> <br/>
 📫 Contatti
 <div align="center"> <img src="https://img.shields.io/badge/HackerOne-Profilo-black?style=flat-square&logo=hackerone"/> <img src="https://img.shields.io/badge/Bugcrowd-Profilo-orange?style=flat-square&logo=bugcrowd"/> <img src="https://img.shields.io/badge/Email-Contattami-red?style=flat-square&logo=gmail&logoColor=white"/>
 
