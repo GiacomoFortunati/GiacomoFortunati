@@ -32,7 +32,7 @@
 <table width="100%">
   <tr>
     <td width="25%"><b>C</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/80?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
     <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
   </tr>
   <tr>
