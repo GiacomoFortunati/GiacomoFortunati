@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:660000,100:1a0000&height=250&section=header&text=FortuJack09&fontSize=65&fontColor=ff4d4d&animation=fadeIn&fontAlignY=32&desc=Student%20by%20day%20%7C%7C%20Bug%20Hunter%20by%20night&descAlignY=52&descSize=19" width="100%"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=giacomofortunati&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236978096%3Fu%3De0ea7d534a6a51630943951739eb5d7a35b96e96%26v%3D4" alt="giacomofortunati hero visual" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=560&lines=Web+Application+Security;Bug+Bounty+Hunter" alt="Typing SVG"/>
 
