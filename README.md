@@ -1,32 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7a0000,100:1a0000&height=200&section=header&text=FortuJack09&fontSize=60&fontColor=ff4d4d&animation=fadeIn&fontAlignY=38&desc=Student%20by%20day%20%7C%7C%20Bug%20Hunter%20by%20night&descAlignY=58&descSize=18" width="100%" alt="FortuJack09" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=FF4D4D&center=true&vCenter=true&width=640&height=35&lines=%24+.%2Fhunt+--scope+web-applications;%24+.%2Fwrite-report+--with-poc;%24+.%2Flearn+reverse-engineering;%24+.%2Fbuild+--board+arduino-uno" alt="Terminal prompt" />
-  <p>
-    <a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-b30000?style=for-the-badge&logo=hackerone&logoColor=ff4d4d&labelColor=140404" alt="HackerOne" /></a>
-    <a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-b30000?style=for-the-badge&logo=bugcrowd&logoColor=ff4d4d&labelColor=140404" alt="Bugcrowd" /></a>
-    <a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-b30000?style=for-the-badge&logo=intigriti&logoColor=ff4d4d&labelColor=140404" alt="Intigriti" /></a>
-    <a href="mailto:fortunatigiacomo14@gmail.com"><img src="https://img.shields.io/badge/Contact-b30000?style=for-the-badge&logo=gmail&logoColor=ff4d4d&labelColor=140404" alt="Email" /></a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:660000,100:1a0000&height=250&section=header&text=FortuJack09&fontSize=65&fontColor=ff4d4d&animation=fadeIn&fontAlignY=32&desc=Student%20by%20day%20%7C%7C%20Bug%20Hunter%20by%20night&descAlignY=52&descSize=19" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=560&lines=Web+Application+Security;Bug+Bounty+Hunter" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+
 </div>
 
-```yaml
-!┌──(fortujack@hunter)-[~]
-!└─$ cat profile.yml
-role:        Cybersecurity Student & Bug Bounty Hunter
-platforms:   HackerOne · Bugcrowd · Intigriti
-focus:       Web App Security · Vulnerability Research · PoC Reporting
-learning:    Reverse Engineering · Low-Level Programming · Embedded Systems
-hardware:    Arduino Uno · Custom Electronics
-mindset:     understand how it works → understand how it breaks → understand how to defend it
+<br/>
 
-!┌──(fortujack@hunter)-[~]
-!└─$ ./skills --list
-C:           ██████░░░░  60%  · Low-level & memory management
-Python:      ██████░░░░  60%  · Automation & exploit scripting
-JavaScript:  ████░░░░░░  40%  · Web security & XSS/DOM analysis
-Assembly:    ████░░░░░░  40%  · Reverse engineering & binary analysis
-Java:        ██░░░░░░░░  20%  · Object-oriented fundamentals
+## 🕵️ About Me
 
-!┌──(fortujack@hunter)-[~]
-!└─$echo$MINDSET
-quote:       "Every bug is just a feature nobody understood yet;"
+> Student passionate about cybersecurity. I hunt bugs on **HackerOne**, **Bugcrowd**, and **Intigriti**, study programming languages, and tinker with hardware and electronics.
+
+<br/>
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
+
+<br/>
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="25%"><b>C</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Python</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>JavaScript</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Assembly</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
+  </tr>
+  <tr>
+    <td width="25%"><b style="color: #ff4d4d;">Java</b></td>
+    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=E53E3E" width="100%" /></td>
+    <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
+  </tr>
+</table>
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔎 &nbsp; **Web Application Security**
+- 🧩 &nbsp; **Basic Reverse Engineering**
+- 🔌 &nbsp; **Embedded Electronics with Arduino Uno**
+- 📝 &nbsp; **Writing Bug Bounty Reports & PoCs**
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati&theme=dark&hide_border=true&background=140404&border=ff3333&ring=ff3333&fire=ff4d4d&currStreakLabel=ff4d4d" />
+
+</div>
+
+<br/>
+
+## 📫 Get in Touch
+
+<div align="center">
+
+<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+<a href="mailto:fortunatigiacomo14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=760&lines=Every+Bug+Is+Just+A+Feature+Nobody+Understood+Yet%3B" alt="Typing SVG"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:660000,100:2b0000&height=150&section=footer" width="100%"/>
+
