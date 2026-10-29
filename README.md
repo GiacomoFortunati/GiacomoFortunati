@@ -1,99 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:660000,100:1a0000&height=250&section=header&text=FortuJack09&fontSize=65&fontColor=ff4d4d&animation=fadeIn&fontAlignY=32&desc=Student%20by%20day%20%7C%7C%20Bug%20Hunter%20by%20night&descAlignY=52&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:660000,100:1a0000&height=200&section=header&text=FortuJack09&fontSize=56&fontColor=ff6b6b&animation=fadeIn&fontAlignY=36&desc=Web%20Application%20Security%20%7C%20Bug%20Bounty&descAlignY=58&descSize=18" width="100%" alt="FortuJack09 - Web Application Security | Bug Bounty"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=560&lines=Web+Application+Security;Bug+Bounty+Hunter" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=640&lines=Web+Application+Security;Bug+Bounty+Hunter;Vulnerability+Reports+%26+PoCs" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-fortujack-b30000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=2b0000" alt="HackerOne profile"/></a>
+<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-FortuJack09-b30000?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=2b0000" alt="Bugcrowd profile"/></a>
+<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-fortujack-b30000?style=for-the-badge&logo=intigriti&logoColor=white&labelColor=2b0000" alt="Intigriti profile"/></a>
 
 </div>
 
 <br/>
 
-## 🕵️ About Me
+## `~/about`
 
-> Student passionate about cybersecurity. I hunt bugs on **HackerOne**, **Bugcrowd**, and **Intigriti**, study programming languages, and tinker with hardware and electronics.
+Cybersecurity student focused on web application security. I hunt vulnerabilities on **HackerOne**, **Bugcrowd** and **Intigriti**, and I care about turning every finding into a clear, reproducible report. Alongside that, I study low-level programming and reverse engineering, and experiment with embedded electronics on Arduino.
 
-<br/>
+```text
+role: Student · Bug Bounty Hunter
+focus: Web Application Security · Vulnerability Reports & PoCs
+learning: Reverse Engineering · Embedded Electronics
+mindset: every bug is just a feature nobody understood yet;
+```
 
-## 🛠️ Languages & Technologies
+## `~/stack`
+
+![C](https://img.shields.io/badge/C-2b0000?style=for-the-badge&logo=c&logoColor=ff4d4d)
+![Python](https://img.shields.io/badge/Python-2b0000?style=for-the-badge&logo=python&logoColor=ff4d4d)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b0000?style=for-the-badge&logo=javascript&logoColor=ff4d4d)
+![Assembly](https://img.shields.io/badge/Assembly-2b0000?style=for-the-badge&logoColor=ff4d4d)
+![Java](https://img.shields.io/badge/Java-2b0000?style=for-the-badge&logo=openjdk&logoColor=ff4d4d)
+![Arduino](https://img.shields.io/badge/Arduino-2b0000?style=for-the-badge&logo=arduino&logoColor=ff4d4d)
+
+## `~/focus`
+
+| Area | Focus | Status |
+|:--|:--|:--|
+| **Web Application Security** | Finding and validating vulnerabilities in live applications through bug bounty programs | Core |
+| **Reporting & PoCs** | Writing clear, reproducible reports and proofs of concept | Core |
+| **Reverse Engineering** | Building solid fundamentals in low-level code analysis | Learning |
+| **Embedded Electronics** | Hands-on experiments with Arduino Uno | Exploring |
+
+## `~/stats`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,arduino&theme=dark" height="55"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GiacomoFortunati&show_icons=true&hide_border=true&bg_color=140404&title_color=ff4d4d&icon_color=ff3333&text_color=fca5a5&ring_color=ff3333" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoFortunati&layout=compact&hide_border=true&bg_color=140404&title_color=ff4d4d&text_color=fca5a5&langs_count=8" alt="Top languages"/>
 
-<br/>
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="25%"><b>C</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
-  </tr>
-  <tr>
-    <td width="25%"><b>Python</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/60?dangerColor=8B0000&color=FF3333" width="100%" /></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">60%</b></td>
-  </tr>
-  <tr>
-    <td width="25%"><b>JavaScript</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
-  </tr>
-  <tr>
-    <td width="25%"><b>Assembly</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/40?dangerColor=8B0000&color=FF3333" width="100%" /></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">40%</b></td>
-  </tr>
-  <tr>
-    <td width="25%"><b style="color: #ff4d4d;">Java</b></td>
-    <td width="65%"><img src="https://geps.dev/progress/20?dangerColor=8B0000&color=E53E3E" width="100%" /></td>
-    <td width="10%" align="right"><b style="color: #ff4d4d;">20%</b></td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati&hide_border=true&background=140404&stroke=3a0c0c&ring=ff3333&fire=ff4d4d&currStreakNum=ff4d4d&currStreakLabel=ff4d4d&sideNums=fca5a5&sideLabels=fca5a5&dates=b45f5f" alt="GitHub streak"/>
 
 </div>
 
-## 🎯 Current Focus
+## `~/contact`
 
-- 🔎 &nbsp; **Web Application Security**
-- 🧩 &nbsp; **Basic Reverse Engineering**
-- 🔌 &nbsp; **Embedded Electronics with Arduino Uno**
-- 📝 &nbsp; **Writing Bug Bounty Reports & PoCs**
+Feel free to reach out for collaborations or security discussions.
 
-<br/>
+<a href="mailto:fortunatigiacomo14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-b30000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b0000" alt="Send an email"/></a>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=GiacomoFortunati&theme=dark&hide_border=true&background=140404&border=ff3333&ring=ff3333&fire=ff4d4d&currStreakLabel=ff4d4d" />
-
-</div>
-
-<br/>
-
-## 📫 Get in Touch
-
-<div align="center">
-
-<a href="https://hackerone.com/fortujack?type=user"><img src="https://img.shields.io/badge/HackerOne-Profile-7A0000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-<a href="https://bugcrowd.com/h/FortuJack09"><img src="https://img.shields.io/badge/Bugcrowd-Profile-B30000?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-<a href="https://app.intigriti.com/researcher/profile/fortujack"><img src="https://img.shields.io/badge/Intigriti-Profile-990000?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
-<a href="mailto:fortunatigiacomo14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-E60000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=760&lines=Every+Bug+Is+Just+A+Feature+Nobody+Understood+Yet%3B" alt="Typing SVG"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:660000,100:2b0000&height=150&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:660000,100:1a0000&height=120&section=footer" width="100%" alt=""/>
